@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+lifetimes
+xgboost
+lightgbm
+matplotlib
+seaborn
+plotly
+openpyxl
+squarify

@@ -1,0 +1,19 @@
+# Raw and generated data
+data/*.xlsx
+data/*.csv
+outputs/*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
