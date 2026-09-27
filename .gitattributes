@@ -1,0 +1,5 @@
+outputs/*.html linguist-generated=true
+templates/*.html linguist-generated=true
+outputs/*.json linguist-generated=true
+outputs/*.csv linguist-generated=true
+data/*.csv linguist-generated=true
